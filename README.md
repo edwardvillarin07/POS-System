@@ -12,6 +12,12 @@ Java SE Development Kit this tools is very important to start the netbeans JDK-8
 Follow me on Facebook ❤ : https://www.facebook.com/edward.villarin1432 Buy me a coffee (Paypal )❤ : villarinedward9@gmail.com
 
 Updated : User can Login at this time, HEHE I don't have much time, because of my study in school.
+Features Added : 
+- Dashboard 
+![1](https://user-images.githubusercontent.com/75055546/189370992-a6262b44-be31-456b-9ce5-a9d2697c032b.PNG)
+
+- Money IN/OUT
+![2](https://user-images.githubusercontent.com/75055546/189371133-3918ad81-9410-4df3-b260-632027f1b3be.PNG)
 
 
 Publish v1 (sample)(08/09/2022)
